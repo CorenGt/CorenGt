@@ -27,5 +27,3 @@ I am an Artificial Intelligence developer and at the same time I am a front-end 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorenGt&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CorenGt&theme=default" alt="GitHub Streak" />
-
