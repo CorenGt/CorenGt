@@ -1,5 +1,5 @@
 # Hi! 👋, I'm Batuhan Yılmaz
-### AI Developer, Front-End Developer
+### AI Developer, Computer Vision, Transfer Learning, NLP, Pre-Trained Models
 
 I am an Artificial Intelligence developer and at the same time I am a front-end developer. I work with Computer Vision and CNn networks and train models by transfer learning.
 
