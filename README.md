@@ -1,7 +1,22 @@
 # Hi! 👋, I'm Batuhan Yılmaz
-### AI Developer, Computer Vision, Transfer Learning, NLP, Pre-Trained Models
 
-I am an Artificial Intelligence developer and at the same time I am a front-end developer. I work with Computer Vision and CNn networks and train models by transfer learning.
+### Machine Learning Engineer | Production-Focused Computer Vision Expert
+I specialize in developing advanced AI models for real-world problems, leveraging deep learning and computer vision. My work in medical imaging, including tumor detection and pathology analysis, utilizes cutting-edge techniques such as CNNs, Transformers, and Transfer Learning.
+
+Beyond model development, I excel at bringing solutions to life. I build robust APIs with Flask, manage data effectively with SQL, and automate CI/CD pipelines using GitHub Actions to ensure seamless deployment and operational efficiency. I also have foundational experience in NLP, primarily through API utilization.
+
+My mission: To harness the transformative power of AI to deliver tangible, scalable, and operational solutions. I'm passionate about driving impact with AI and developing next-generation applications.
+
+Core Competencies:
+AI & Machine Learning: Computer Vision (OpenCV, TensorFlow), Deep Learning (CNNs, Transformers)
+
+Medical AI: MRI & Histopathology Image Analysis
+
+MLOps & Deployment: Flask, GitHub Actions, API Development
+
+Data Management: SQL
+
+Foundational NLP: API Utilization
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/batuyılmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mediain-ai.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@MediAIn-ai" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/__batuhanylmz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
