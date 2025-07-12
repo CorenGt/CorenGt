@@ -1,6 +1,6 @@
 # Hi! 👋, I'm Batuhan Yılmaz
 
-### Deep Learning | Computer Vision & XAI & Segmentation | LangChain & Prompt Engineering
+### Junior AI Engineer
 
 I develop cutting-edge AI solutions with a strong focus on real-world impact. My core expertise lies in deep learning, computer vision, and explainable AI (XAI), where I craft robust models for complex tasks such as tumor detection and pathology image analysis using CNNs, Transformers, and Transfer Learning.
 
