@@ -21,7 +21,7 @@ Data Managment : SQL
 NLP: Foundational use via APIs
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/batuyılmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mediain-ai.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@MediAIn-ai" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/__batuhanylmz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://www.linkedin.com/in/batuyılmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mediain-ai.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@MediainTechnologies" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/__batuhanylmz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
 
