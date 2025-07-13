@@ -4,7 +4,7 @@
 
 I develop cutting-edge AI solutions with a strong focus on real-world impact. My core expertise is in deep learning, computer vision, and explainable artificial intelligence (XAI), using CNNs, Transformers, and Transfer Learning to develop robust models for complex tasks such as tumor detection and pathology image analysis.
 
-Recently, I have broadened my focus to include Generative AI, exploring how these technologies can empower intelligent, adaptive, and creative systems. I work on frameworks such as Prompt Engineering and LangChain to optimize results from big language models and other generative tools.
+Recently, I have broadened my focus to include Generative AI, exploring how these technologies can empower intelligent, adaptive, and creative systems. I work on frameworks such as Prompt Engineering to optimize results from large language models and other generative tools.
 
 My mission is to drive meaningful change by applying cutting-edge AI to solve real problems by combining accuracy, interpretability, and scalability.
 
@@ -14,7 +14,7 @@ Deep Learning and Computer Vision: Robust model development for complex tasks su
 
 Explainable Artificial Intelligence (XAI): Ensuring the interpretability and accuracy of the models developed.
 
-Generative AI and Large Language Models (LLMs): Developing and optimizing intelligent, adaptive and creative systems using frameworks such as Prompt Engineering and LangChain.
+Generative AI & LLMs: Developing and optimizing intelligent, adaptive and creative systems using frameworks such as Prompt Engineering
 
 Database Management: SQL knowledge
 
