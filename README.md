@@ -2,23 +2,21 @@
 
 ### Junior AI Engineer
 
-I develop cutting-edge AI solutions with a strong focus on real-world impact. My core expertise lies in deep learning, computer vision, and explainable AI (XAI), where I craft robust models for complex tasks such as tumor detection and pathology image analysis using CNNs, Transformers, and Transfer Learning.
+I develop cutting-edge AI solutions with a strong focus on real-world impact. My core expertise is in deep learning, computer vision, and explainable artificial intelligence (XAI), using CNNs, Transformers, and Transfer Learning to develop robust models for complex tasks such as tumor detection and pathology image analysis.
 
-Recently, I’ve expanded my focus to include Generative AI, exploring how these technologies can power intelligent, adaptive, and creative systems. I work on Prompt Engineering and frameworks like LangChain to optimize outcomes from large language models and other generative tools.
+Recently, I have broadened my focus to include Generative AI, exploring how these technologies can empower intelligent, adaptive, and creative systems. I work on frameworks such as Prompt Engineering and LangChain to optimize results from big language models and other generative tools.
 
-In addition to model building, I ensure that AI solutions are practical and usable in production. I create scalable APIs with Flask and manage data pipelines efficiently using SQL. While my main focus is vision-based AI, I also have hands-on experience integrating NLP capabilities through external APIs.
-
-Mission: To drive meaningful change by applying state-of-the-art AI to solve real problems—combining accuracy, interpretability, and scalability.
+My mission is to drive meaningful change by applying cutting-edge AI to solve real problems by combining accuracy, interpretability, and scalability.
 
 Core Competencies:
 
-AI & Machine Learning: Deep Learning (CNNs, Transformers), Generative AI, Prompt Engineering, LangChain
+Deep Learning and Computer Vision: Robust model development for complex tasks such as tumor detection and pathology image analysis with CNNs, Transformers, Transfer Learning, TensorFlow.
 
-Computer Vision: Medical Imaging, MRI & Histopathology Analysis, XAI, Segmentation
+Explainable Artificial Intelligence (XAI): Ensuring the interpretability and accuracy of the models developed.
 
-Data Managment : SQL
+Generative AI and Large Language Models (LLMs): Developing and optimizing intelligent, adaptive and creative systems using frameworks such as Prompt Engineering and LangChain.
 
-NLP: Foundational use via APIs
+Database Management: SQL knowledge
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/batuyılmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mediain-ai.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@MediainTechnologies" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/__batuhanylmz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
