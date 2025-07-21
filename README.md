@@ -2,7 +2,7 @@
 
 ### Jr. AI Developer
 
-Deep Learning | Computer Vision | XAI | LLMs | Generative AI | Big Data | Power BI
+Deep Learning | Computer Vision | XAI | LLMs | Generative AI | SQL | Power BI
 
 I build intelligent systems that bridge research and real-world deployment—designing deep learning pipelines with a focus on performance, interpretability, and scalability. My work spans core areas like computer vision, explainable AI (XAI), and generative models, applying CNNs, Transformers, and Transfer Learning to solve high-dimensional, unstructured data challenges.
 
@@ -21,7 +21,7 @@ XAI (Explainable AI): Grad-Cam, Integrated Gradients, SHAP...
 
 Generative AI & LLMs: Prompt Engineering, OpenAI, Hugging Face, text generation, fine-tuning
 
-Big Data & Analytics: SQL, Apache Spark, Matplotlib
+Big Data & Analytics: SQL, Matplotlib
 
 Business Intelligence: Microsoft Power BI, interactive dashboard design
 
