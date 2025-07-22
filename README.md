@@ -1,34 +1,36 @@
-# Hi! 👋, I'm Batuhan Yılmaz
+### Yapay Zeka | Bilgisayarlı Görü | Açıklanabilir Yapay Zeka (XAI) | Büyük Dil Modelleri (LLM) | Zaman Serileri | SQL | İş Zekâsı
 
-### Jr. AI Developer
+Araştırma ile gerçek dünya uygulamaları arasında köprü kuran akıllı sistemler geliştiriyorum. Performans, yorumlanabilirlik ve ölçeklenebilirlik odaklı derin öğrenme süreçleri tasarlıyor; bilgisayarlı görü, açıklanabilir yapay zeka (XAI), üretici modeller (generative AI) ve zaman serileri gibi temel alanlarda çalışıyorum.
 
-Deep Learning | Computer Vision | XAI | LLMs | Generative AI | SQL | Power BI
+CNN'ler, Transformer mimarileri ve Transfer Learning tekniklerini kullanarak yüksek boyutlu ve yapısal olmayan veriler üzerinde çözüm odaklı projeler geliştiriyorum.
 
-I build intelligent systems that bridge research and real-world deployment—designing deep learning pipelines with a focus on performance, interpretability, and scalability. My work spans core areas like computer vision, explainable AI (XAI), and generative models, applying CNNs, Transformers, and Transfer Learning to solve high-dimensional, unstructured data challenges.
+Son dönemde, büyük dil modelleri (LLM'ler) ve üretici yapay zeka üzerine yoğunlaştım. Prompt engineering gibi yöntemlerle bağlama duyarlı, adaptif sistemler geliştirerek bu modellerin performansını optimize ediyorum.
 
-Recently, I've been working extensively with large language models (LLMs) and Generative AI, optimizing performance through techniques such as prompt engineering to enable adaptive and context-aware systems.
+Ayrıca büyük ölçekli veri kümeleriyle çalışma, AI çıktılarının analitik ekosistemlere entegrasyonu ve Power BI gibi araçlarla içgörü sunumu konularında uygulamalı deneyime sahibim. Model geliştirmeden dağıtıma kadar olan tüm süreçte tekrarlanabilirlik, şeffaflık ve ölçülebilir değer üretmeyi ön planda tutuyorum.
 
-I have hands-on experience in managing and processing large-scale datasets, integrating AI outputs into analytics ecosystems, and delivering insights through tools like Power BI. From model development to deployment, my approach is grounded in reproducibility, clarity, and measurable value.
+Zaman serileri analiziyle, özellikle tahminleme, anomalilik tespiti ve veri trendlerinin modellenmesi gibi alanlarda derin öğrenme (LSTM, GRU) tabanlı çözümler geliştiriyor; bu sayede geçmiş verilerden geleceğe yönelik öngörüler sağlayan sistemler inşa ediyorum.
 
-I’m especially interested in building production-grade AI solutions that push technical boundaries while solving practical, high-impact problems across industries.
+Yüksek etki yaratacak, pratik sorunları çözen ve teknik sınırları zorlayan üretim düzeyinde yapay zeka çözümleri geliştirmeye özellikle ilgi duyuyorum.
 
+Teknik Alanlar:
+Derin Öğrenme: CNN, Transfer Learning, TensorFlow, Keras
 
-Deep Learning: CNNs, Transfer Learning, TensorFlow, Keras
+Bilgisayarlı Görü: Görüntü Sınıflandırma, Görüntü Segmentasyonu
 
-Computer Vision: Image Classification, Image Segmentation
+Zaman Serisi Analizi: LSTM
 
-XAI (Explainable AI): Grad-Cam, Integrated Gradients, SHAP...
+XAI (Açıklanabilir Yapay Zeka): Grad-CAM, Integrated Gradients, SHAP
 
-Generative AI & LLMs: Prompt Engineering, OpenAI, Hugging Face, text generation, fine-tuning
+Generative AI & LLM: Prompt Engineering, OpenAI, Hugging Face, metin üretimi, fine-tuning
 
-Big Data & Analytics: SQL, Matplotlib
+Veri Analitiği & Büyük Veri: SQL, Matplotlib
 
-Business Intelligence: Microsoft Power BI, interactive dashboard design
+İş Zekâsı: Microsoft Power BI, etkileşimli dashboard tasarımı
 
-## Contact Me
+## Bana Ulaş
 <p><a href="https://www.linkedin.com/in/batuyılmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mediain-ai.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@MediainTechnologies" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/__batuhanylmz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-## Skills
+## Yetenekler
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
@@ -41,7 +43,7 @@ Business Intelligence: Microsoft Power BI, interactive dashboard design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
+## GitHub İstatistikleri
 
 <img src="https://github-readme-stats.vercel.app/api?username=CorenGt&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
