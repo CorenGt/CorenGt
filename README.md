@@ -1,4 +1,4 @@
-### Yapay Zeka | Bilgisayarlı Görü | Açıklanabilir Yapay Zeka (XAI) | Büyük Dil Modelleri (LLM) | Zaman Serileri | SQL | İş Zekâsı
+### Yapay Zeka | Bilgisayarlı Görü | XAI | LLM | Zaman Serileri | SQL | İş Zekâsı | EDA
 
 Araştırma ile gerçek dünya uygulamaları arasında köprü kuran akıllı sistemler geliştiriyorum. Performans, yorumlanabilirlik ve ölçeklenebilirlik odaklı derin öğrenme süreçleri tasarlıyor; bilgisayarlı görü, açıklanabilir yapay zeka (XAI), üretici modeller (generative AI) ve zaman serileri gibi temel alanlarda çalışıyorum.
 
@@ -21,7 +21,7 @@ Zaman Serisi Analizi: LSTM
 
 XAI (Açıklanabilir Yapay Zeka): Grad-CAM, Integrated Gradients, SHAP
 
-Generative AI & LLM: Prompt Engineering, OpenAI, Hugging Face, metin üretimi, fine-tuning
+Generative AI & LLM: Prompt Engineering, OpenAI, Hugging Face
 
 Veri Analitiği & Büyük Veri: SQL, Matplotlib
 
