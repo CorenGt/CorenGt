@@ -1,4 +1,4 @@
-## Python & C Developer | Mid. AI Developer
+## AI/ML Developer | Python & Rust Developer
 
 Araştırma ile gerçek dünya uygulamaları arasında köprü kuran akıllı sistemler geliştiriyorum. Performans, yorumlanabilirlik ve ölçeklenebilirlik odaklı derin öğrenme süreçleri tasarlıyor; bilgisayarlı görü, açıklanabilir yapay zeka (XAI), üretici modeller (generative AI) ve regresyon analizleri gibi temel alanlarda çalışıyorum.
 
