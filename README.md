@@ -1,4 +1,4 @@
-## AI/ML Developer | Python & Rust Developer
+## Mid. AI/ML Developer | Python Developer
 
 Derin Öğrenme: CNN, Transfer Learning, TensorFlow, Keras
 
