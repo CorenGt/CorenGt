@@ -1,8 +1,5 @@
 ## Mid. AI/ML Developer | Python & Rust Developer
 
-Hello, my name is Batu. I am a software developer and have been working with Python programming for about 5 years. For the past 2 years, I have been interested in the field of AI/ML and have developed my skills as follows:
+Hi, I’m Batu. I have been developing software with Python for about 5 years. Over the past 2 years, I’ve been focusing on Artificial Intelligence and Machine Learning, working on projects in regression, classification, decision trees, as well as computer vision and natural language processing.
 
-Machine learning techniques (Regression, Decision Trees, Classification)
-Deep learning techniques (Computer Vision, NLP)
-
-Additionally, I work with data analysis, SQL, Power BI, n8n automation, SSMS, and Explainable AI techniques.
+In addition, I’m also interested in data analysis, SQL, Power BI, n8n automation, SSMS, and Explainable AI (XAI) techniques.
