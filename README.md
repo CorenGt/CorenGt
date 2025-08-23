@@ -1,6 +1,6 @@
-## Mid. AI/ML Developer | Python Developer
+## Mid. AI/ML Developer | Python & Rust Developer
 
-Derin Öğrenme: CNN, Transfer Learning, TensorFlow, Keras
+Derin Öğrenme: CNN, Transfer Learning, TensorFlow, Keras, Scikit Learn
 
 Bilgisayarlı Görü: Görüntü Sınıflandırma, Görüntü Segmentasyonu
 
