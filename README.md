@@ -6,5 +6,3 @@ Machine learning techniques (Regression, Decision Trees, Classification)
 Deep learning techniques (Computer Vision, NLP)
 
 Additionally, I work with data analysis, SQL, Power BI, n8n automation, SSMS, and Explainable AI techniques.
-
-Translated with DeepL.com (free version)
