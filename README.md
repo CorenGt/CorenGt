@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CorenGt/CorenGt/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/CorenGt/CorenGt/blob/output/github-snake-dark.svg)
 
 ###
